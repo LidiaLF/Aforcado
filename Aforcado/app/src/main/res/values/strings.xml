@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Aforcado</string>
+    <string name="play">XOGAR!</string>
+    <string name="endTime">REMATOU O TEMPO 😥 </string>
+    <string name="playAgain">Xogar outra vez</string>
+    <string name="win">PARABÉNS! 🥳 </string>
+    <string name="acept">ACEPTAR</string>
+    <string name="lose">"OH! Non atopaches a palabra 😭 "</string>
+    <string name="pista">Pista</string>
+    <string name="personalized">PERSONALIZAR</string>
+    <string name="saved_high_score_key">SAVED_HIGH_SCORE</string>
+    <string name="max_score">Máxima puntuación.</string>
+    <string name="no_points">Non tes suficientes puntos.</string>
+
+    <string-array name="lettersGAL">
+        <item> A </item>
+        <item> B </item>
+        <item> C </item>
+        <item> D </item>
+        <item> E </item>
+        <item> F </item>
+        <item> G </item>
+        <item> H </item>
+        <item> I </item>
+        <item> L </item>
+        <item> M </item>
+        <item> N </item>
+        <item> Ñ </item>
+        <item> O </item>
+        <item> P </item>
+        <item> Q </item>
+        <item> R </item>
+        <item> S </item>
+        <item> T </item>
+        <item> U </item>
+        <item> V </item>
+        <item> X </item>
+        <item> Z </item>
+    </string-array>
+</resources>
