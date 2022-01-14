@@ -1,0 +1,574 @@
+[
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\drawable_saia.jpg.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\drawable\\saia.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\drawable_palleiro.jpg.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\drawable\\palleiro.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\drawable_queipo.jpg.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\drawable\\queipo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\layout_letter.xml.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\layout\\letter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ermida.jpg.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\drawable\\ermida.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\drawable_esmorga.jpg.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\drawable\\esmorga.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\drawable_navalla.jpg.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\drawable\\navalla.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\drawable_beizo.jpg.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\drawable\\beizo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\drawable_meixela.jpg.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\drawable\\meixela.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\raw_aforcadopiano.mp3.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\raw\\aforcadopiano.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cabuxa.jpg.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\drawable\\cabuxa.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\drawable_embigo.jpg.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\drawable\\embigo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\drawable_three.png.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\drawable\\three.png"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\drawable_parrulo.jpg.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\drawable\\parrulo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cancelo.png.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\drawable\\cancelo.png"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\drawable_moucho.jpg.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\drawable\\moucho.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\drawable_chorima.jpg.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\drawable\\chorima.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\drawable_peirao.jpg.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\drawable\\peirao.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\raw_fail.mpeg.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\raw\\fail.mpeg"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\drawable_six.png.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\drawable\\six.png"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\drawable_one.png.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\drawable\\one.png"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\drawable_druida.jpg.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\drawable\\druida.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bolboreta.jpg.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\drawable\\bolboreta.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\drawable_lobishome.jpg.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\drawable\\lobishome.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\drawable_lente.jpg.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\drawable\\lente.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\drawable_avos.jpg.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\drawable\\avos.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\drawable_brinco.png.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\drawable\\brinco.png"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_afogado.xml.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\layout\\activity_afogado.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\drawable_zamelo.jpg.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\drawable\\zamelo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\drawable_labazada.jpg.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\drawable\\labazada.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cachela.jpg.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\drawable\\cachela.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\drawable_labrego.jpg.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\drawable\\labrego.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\drawable_miolo.jpg.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\drawable\\miolo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rubio.jpg.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\drawable\\rubio.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\raw_win.mpeg.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\raw\\win.mpeg"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fouce.jpg.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\drawable\\fouce.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\drawable_foliada.jpg.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\drawable\\foliada.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\drawable_garfo.jpg.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\drawable\\garfo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\drawable_unlla.jpg.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\drawable\\unlla.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\drawable_parafuso.jpg.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\drawable\\parafuso.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tixola.jpg.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\drawable\\tixola.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\drawable_nadega.jpg.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\drawable\\nadega.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\drawable_nadal.jpg.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\drawable\\nadal.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\drawable_semente.jpg.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\drawable\\semente.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gradient_background.xml.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\drawable\\gradient_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cervexa.png.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\drawable\\cervexa.png"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\drawable_zero.png.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\drawable\\zero.png"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\drawable_folerpa.jpg.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\drawable\\folerpa.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\drawable_lostrego.jpg.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\drawable\\lostrego.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\drawable_xato.jpg.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\drawable\\xato.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\drawable_boneco.jpg.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\drawable\\boneco.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\drawable_maniotas.jpg.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\drawable\\maniotas.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\drawable_almorzo.jpg.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\drawable\\almorzo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\drawable_saraiba.jpg.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\drawable\\saraiba.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\drawable_furna.jpg.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\drawable\\furna.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\drawable_vasoira.jpg.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\drawable\\vasoira.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\drawable_five.png.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\drawable\\five.png"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\drawable_serea.jpg.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\drawable\\serea.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\drawable_esquio.jpg.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\drawable\\esquio.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\drawable_louro.jpg.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\drawable\\louro.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\drawable_troita.jpg.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\drawable\\troita.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fada.jpg.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\drawable\\fada.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cinsa.jpg.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\drawable\\cinsa.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gaiola.jpg.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\drawable\\gaiola.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_game.xml.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\layout\\activity_game.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\drawable_folla.jpg.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\drawable\\folla.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sacho.jpg.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\drawable\\sacho.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fiuncho.jpg.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\drawable\\fiuncho.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\drawable_esbirro.jpg.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\drawable\\esbirro.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fiestra.jpg.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\drawable\\fiestra.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ardora.jpg.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\drawable\\ardora.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\drawable_filloa.jpg.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\drawable\\filloa.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\drawable_arbore.jpg.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\drawable\\arbore.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\drawable_two.png.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\drawable\\two.png"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\drawable_queixo.jpg.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\drawable\\queixo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\drawable_escada.png.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\drawable\\escada.png"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\drawable_entena.jpg.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\drawable\\entena.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\drawable_calacu.jpg.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\drawable\\calacu.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bagoa.jpg.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\drawable\\bagoa.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\drawable_agarimo.jpg.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\drawable\\agarimo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\drawable_meiga.jpg.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\drawable\\meiga.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cheminea.jpg.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\drawable\\cheminea.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\layout_image_win.xml.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\layout\\image_win.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\drawable_la.jpg.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\drawable\\la.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bretema.jpg.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\drawable\\bretema.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\drawable_zalapastrar.jpg.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\drawable\\zalapastrar.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\drawable_zocas.jpg.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\drawable\\zocas.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\drawable_raposo.jpg.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\drawable\\raposo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\drawable_loureiro.jpg.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\drawable\\loureiro.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\drawable_polbo.jpg.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\drawable\\polbo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\drawable_chalana.jpg.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\drawable\\chalana.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\drawable_border_image.xml.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\drawable\\border_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\drawable_four.png.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\drawable\\four.png"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\drawable_marmelo.jpg.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\drawable\\marmelo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\drawable_grelo.jpg.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\drawable\\grelo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\drawable_triscele.jpg.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\drawable\\triscele.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\drawable_millo.jpg.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\drawable\\millo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\drawable_vacaloura.jpg.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\drawable\\vacaloura.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\drawable_furon.jpg.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\drawable\\furon.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\drawable_amorodo.jpg.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\drawable\\amorodo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\drawable_chisqueiro.jpg.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\drawable\\chisqueiro.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\drawable_xabaril.jpg.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\drawable\\xabaril.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cortiza.jpg.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\drawable\\cortiza.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dolmen.jpg.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\drawable\\dolmen.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\drawable_queimada.jpg.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\drawable\\queimada.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\drawable_vagalume.jpg.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\drawable\\vagalume.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\drawable_luva.jpg.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\drawable\\luva.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\drawable_salton.jpg.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\drawable\\salton.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\drawable_toxo.jpg.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\drawable\\toxo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\drawable_berce.jpg.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\drawable\\berce.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sapoconcho.jpg.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\drawable\\sapoconcho.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\drawable_zacote.jpg.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\drawable\\zacote.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\drawable_xigante.jpg.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\drawable\\xigante.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\drawable_zorra.jpg.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\drawable\\zorra.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\drawable_furancho.jpg.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\drawable\\furancho.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_skins.xml.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\layout\\activity_skins.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\drawable_papoula.jpg.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\drawable\\papoula.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\build\\intermediates\\res\\merged\\debug\\drawable_luscofusco.jpg.flat",
+        "source": "C:\\Users\\Lidia\\Desktop\\Nueva carpeta\\Aforcado\\Aforcado\\app\\src\\main\\res\\drawable\\luscofusco.jpg"
+    }
+]
