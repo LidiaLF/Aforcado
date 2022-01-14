@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Afogado.iml" filepath="$PROJECT_DIR$/.idea/modules/Afogado.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Afogado.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Afogado.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Aforcado.iml" filepath="$PROJECT_DIR$/.idea/modules/Aforcado.iml" />
     </modules>
   </component>
 </project>
