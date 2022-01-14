@@ -26,7 +26,7 @@ Podese ver un pequeno [MANUAL DE USUARIO](/documentacion/manual_usuario.pdf) no 
 Mais adiante actualizarase tanto o xogo como os manuais, xa que se pretenden engadir novas funcionalidades.
 
 ## Indice:
-1. [Idea](/documentacion/idea.md)
+1. [Idea](/doc/idea.md)
 2. [Planificación e Deseño](/doc/plan.md)
 3. [Implantación](/doc/implantacion.md)
 4. [Manual de Uso](/documentacion/manual_usuario.pdf)
