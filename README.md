@@ -1,6 +1,9 @@
 # Aforcado
  ![Logo Aforcado](/img/six.png)
- 
+ ## Software empregado:
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
+[![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
+</br>
  ## Descripción
 Xogo do clásico Aforcado para aprender Galego. 
 
@@ -37,7 +40,4 @@ Pretendese seguir traballando na aplicación engadindo futuros módulos como:
 * (...)
 
 
-## Software empregado:
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
-[![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
-</br>
+
