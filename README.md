@@ -8,6 +8,13 @@ Actualmente consta dunha base de datos con 100 palabras sacadas do [RAG](https:/
 
 Pretende, mediante o xogo, dar a coñecer palabras que moitas veces tendemos a castelanizar.
 
+## Instalación / Posta en marcha
+Descarga os seguintes .apk:
+* [Aforcado.apk](/Aforcado.apk)
+![InstalacionApk](/doc/img/instalacionApk.png)
+
+Se desexas instalar a aplicación de maneira distinta a anterior, e poñela en marcha a través de Android Studio, podes seguir os pasos a través do seguinte [Manual de Instalación.](/doc/implantacion.md)
+
 ## Uso
 O uso de dita aplicación pretende ser o máis intuitiva posíbel, xa que vai orientada a todos os grupos de idade.
 
@@ -17,8 +24,8 @@ Mais adiante actualizarase tanto o xogo como os manuais, xa que se pretenden eng
 
 ## Indice:
 1. [Idea](/documentacion/idea.md)
-2. [Planificación e Deseño] (/doc/plan.md)
-3. [Implantación] (/doc/implantacion.md)
+2. [Planificación e Deseño](/doc/plan.md)
+3. [Implantación](/doc/implantacion.md)
 4. [Manual de Uso](/documentacion/manual_usuario.pdf)
 
 ## Futuras Actualizacións
