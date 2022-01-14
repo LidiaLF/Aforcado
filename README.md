@@ -13,7 +13,7 @@ Pretende, mediante o xogo, dar a coñecer palabras que moitas veces tendemos a c
 
 ## Instalación / Posta en marcha
 Descarga os seguintes .apk:
-* [Aforcado.apk](/Aforcado.apk)
+* [Aforcado.apk](/aforcado.apk)
 ![InstalacionApk](/doc/img/instalacionApk.png)
 
 Se desexas instalar a aplicación de maneira distinta a anterior, e poñela en marcha a través de Android Studio, podes seguir os pasos a través do seguinte [Manual de Instalación.](/doc/implantacion.md)
