@@ -5,7 +5,7 @@
 [![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
 [![Sqlite](https://img.shields.io/badge/-sqlite-grey?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=101010)]()
 </br>
- ## Descripción
+ ## Descrición
 Xogo do clásico Aforcado para aprender Galego. 
 
 Actualmente consta dunha base de datos con 100 palabras sacadas do [RAG](https://academia.gal/dicionario). 
